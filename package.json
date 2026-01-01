@@ -2,11 +2,11 @@
   "name": "portfolio-main",
   "version": "1.0.0",
   "description": "Portfolio project with frontend and backend",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "concurrently \"npm run client\" \"npm run server\"",
     "client": "npm start --prefix frontend",
-    "server": "node backend/index.js",
+    "server": "node backend/server.js",
     "build": "npm install --prefix frontend && npm run build --prefix frontend"
   },
   "dependencies": {
