@@ -1,0 +1,8 @@
+btn = size 
+btn = font-medium
+
+colors 
+main bd = [#11192b]
+golden = [#FACC15]
+
+neon blue = [#12E8BA]

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39014777.css",
+    "main.js": "/static/js/main.d49b9bd9.js",
+    "static/media/myPic.png": "/static/media/myPic.d6bd3b65f3db5e844848.png",
+    "static/media/udemy.png": "/static/media/udemy.e66bbd27f718a7c5dc34.png",
+    "static/media/logo.png": "/static/media/logo.f8e5b715798d8feea61e.png",
+    "static/media/nostra.png": "/static/media/nostra.29ac36e4a5dc3857c228.png",
+    "static/media/weatherApp.png": "/static/media/weatherApp.b2087605487a928c61ac.png",
+    "static/media/actodo.png": "/static/media/actodo.885a79697dec90f91004.png",
+    "static/media/greenden.png": "/static/media/greenden.c8644c89f559ed009927.png",
+    "static/media/tripadvisor.png": "/static/media/tripadvisor.9edf29633e7b732e1ec3.png",
+    "static/media/boss.png": "/static/media/boss.bf15a6a17c3e605dc18f.png",
+    "static/media/email.png": "/static/media/email.babc890bf0779ce1cba2.png",
+    "index.html": "/index.html",
+    "main.39014777.css.map": "/static/css/main.39014777.css.map",
+    "main.d49b9bd9.js.map": "/static/js/main.d49b9bd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39014777.css",
+    "static/js/main.d49b9bd9.js"
+  ]
+}

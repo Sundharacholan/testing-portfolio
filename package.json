@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-main",
+  "version": "1.0.0",
+  "description": "Portfolio project with frontend and backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run client\" \"npm run server\"",
+    "client": "npm start --prefix frontend",
+    "server": "node backend/index.js",
+    "build": "npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "dotenv": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sundharacholan/portfolio_sls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sundharacholan/portfolio_sls/issues"
+  },
+  "homepage": "https://github.com/Sundharacholan/portfolio_sls#readme"
+}
